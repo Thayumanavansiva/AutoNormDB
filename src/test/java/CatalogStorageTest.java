@@ -1,6 +1,7 @@
 import org.jeyadevan.catalog.CatalogStorage;
 import org.jeyadevan.db.ColumnDef;
 import org.jeyadevan.db.DataType;
+import org.jeyadevan.db.Row;
 import org.jeyadevan.db.TableSchema;
 import org.jeyadevan.io.PageManager;
 import org.jeyadevan.storage.Constants;
